@@ -1,0 +1,13 @@
+{
+    "name": "khurshed/onestore",
+    "description": "parse the doc file and update it into the respective fields of the description into the mysql database",
+    "authors": [
+        {
+            "name": "khurshed",
+            "email": "khurshed2012@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
